@@ -5,5 +5,5 @@
     We import the various functions from our sub-modules so they can be
     accessed directly from the Charter package.
 """
-from .chart     import *
-from .generator import *
+from .chart     import Chart
+from .generator import generate_chart
