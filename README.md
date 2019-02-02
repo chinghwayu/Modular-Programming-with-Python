@@ -21,3 +21,8 @@ You can also refer to the following books:
 * [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming?utm_source=github&utm_medium=related&utm_campaign=9781847194947)
 * [Learning Cython Programming](https://www.packtpub.com/application-development/learning-cython-programming?utm_source=github&utm_medium=related&utm_campaign=9781783280797)
 * [Instant Data Intensive Apps with pandas How-to](https://www.packtpub.com/big-data-and-business-intelligence/instant-data-intensive-apps-pandas-how-instant?utm_source=github&utm_medium=related&utm_campaign=9781782165583)
+
+Custom Changes
+--------------
+
+See branch(es) for custom changes by [@chinghwayu](https://github.com/chinghwayu)
